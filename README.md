@@ -1,1 +1,1 @@
-# Data_Structure_Algorithm_In_C 
+This contains the programs from Data Structures and Algorithms code in C 
